@@ -6,6 +6,9 @@ Personal business card built with HTML and CSS as part of the Scrimba Frontend c
 - HTML
 - CSS
 
+## 🚀 Live Demo
+[View Live](https://own-business-card.netlify.app/)
+
 ## 📚 What I learned
 - Basic HTML structure
 - CSS styling and layout (Flexbox)
